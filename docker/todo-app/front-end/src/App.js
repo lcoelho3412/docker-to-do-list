@@ -3,7 +3,7 @@ import {
   Switch,
   Route
 } from "react-router-dom";
-// first commit change
+
 import logo from './logo.png';
 import './App.css';
 
